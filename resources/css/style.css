@@ -4,5 +4,32 @@ font-family: Verdana, sans-serif;
 text-align: center;
 color: white;
 }
-h1 {
+.title h1 { 
+	font-size: 55px;
+}
+
+a {
+	color: Aquamarine;
+	font- size: 18px;
+}
+
+h2 {
+	font-size: 48px;
+}
+p {
+	font-size: 22px;
+	color: grey;
+}
+
+.phone {
+	margin-top: 20px;
+}
+footer {
+	height: 40px;	
+}
+.footer {
+	 float: right;
+	 margin-right: 22px;
+	 font-size: 22px;
+	 color: grey;
 }
