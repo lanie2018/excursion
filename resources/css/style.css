@@ -1,6 +1,8 @@
 body {
 background-color: black;
+font-family: Verdana, sans-serif;
+text-align: center;
+color: white;
 }
 h1 {
-	color: white;
 }
